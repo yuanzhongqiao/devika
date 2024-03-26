@@ -1,87 +1,87 @@
-<p align="center">
-  <img src=".assets/devika-avatar.png" alt="Devika Logo" width="250">
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer" href="/stitionai/devika/blob/main/.assets/devika-avatar.png"><img src="/stitionai/devika/raw/main/.assets/devika-avatar.png" alt="德维卡标志" width="250" style="max-width: 100%;"></a>
 </p>
+<div class="markdown-heading" dir="auto"><h1 align="center" tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🚀 Devika - Agentic AI 软件工程师 👩&zwj;💻</font></font></h1><a id="user-content--devika---agentic-ai-software-engineer-" class="anchor" aria-label="永久链接：🚀 Devika - Agentic AI 软件工程师👩&zwj;💻" href="#-devika---agentic-ai-software-engineer-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/stitionai/devika/blob/main/.assets/devika-screenshot.png"><img src="/stitionai/devika/raw/main/.assets/devika-screenshot.png" alt="德维卡截图" style="max-width: 100%;"></a></p>
+<div class="markdown-alert markdown-alert-important" dir="auto"><p class="markdown-alert-title" dir="auto"><svg class="octicon octicon-report mr-2" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v9.5A1.75 1.75 0 0 1 14.25 13H8.06l-2.573 2.573A1.458 1.458 0 0 1 3 14.543V13H1.75A1.75 1.75 0 0 1 0 11.25Zm1.75-.25a.25.25 0 0 0-.25.25v9.5c0 .138.112.25.25.25h2a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h6.5a.25.25 0 0 0 .25-.25v-9.5a.25.25 0 0 0-.25-.25Zm7 2.25v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 9a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path></svg><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">重要的</font></font></p><p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">该项目目前处于非常早期的开发/实验阶段。目前有很多未实现/损坏的功能。欢迎贡献力量，帮助进步！</font></font></p>
+</div>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">目录</font></font></h2><a id="user-content-table-of-contents" class="anchor" aria-label="固定链接：目录" href="#table-of-contents"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="#about"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">关于</font></font></a></li>
+<li><a href="#key-features"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">主要特征</font></font></a></li>
+<li><a href="#system-architecture"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">系统架构</font></font></a></li>
+<li><a href="#quick-start"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">快速开始</font></font></a></li>
+<li><a href="#installation"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装</font></font></a></li>
+<li><a href="#getting-started"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">入门</font></font></a></li>
+<li><a href="#configuration"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">配置</font></font></a></li>
+<li><a href="#under-the-hood"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">幕后花絮</font></font></a>
+<ul dir="auto">
+<li><a href="#ai-planning-and-reasoning"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AI规划与推理</font></font></a></li>
+<li><a href="#keyword-extraction"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">关键词提取</font></font></a></li>
+<li><a href="#browser-interaction"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">浏览器交互</font></font></a></li>
+<li><a href="#code-writing"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">代码编写</font></font></a></li>
+</ul>
+</li>
+<li><a href="#community-discord-server"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">社区不和谐服务器</font></font></a></li>
+<li><a href="#contributing"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></a></li>
+<li><a href="#license"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">执照</font></font></a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">关于</font></font></h2><a id="user-content-about" class="anchor" aria-label="永久链接：关于" href="#about"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Devika 是一位高级人工智能软件工程师，可以理解高级人类指令，将其分解为步骤，研究相关信息并编写代码以实现给定目标。 Devika 利用大型语言模型、规划和推理算法以及网页浏览功能来智能地开发软件。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Devika 的目标是通过提供人工智能结对程序员来彻底改变我们构建软件的方式，该程序员可以在最少的人工指导下完成复杂的编码任务。无论您需要创建新功能、修复错误还是从头开始开发整个项目，Devika 都会为您提供帮助。</font></font></p>
+<div class="markdown-alert markdown-alert-note" dir="auto"><p class="markdown-alert-title" dir="auto"><svg class="octicon octicon-info mr-2" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8Zm8-6.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13ZM6.5 7.75A.75.75 0 0 1 7.25 7h1a.75.75 0 0 1 .75.75v2.75h.25a.75.75 0 0 1 0 1.5h-2a.75.75 0 0 1 0-1.5h.25v-2h-.25a.75.75 0 0 1-.75-.75ZM8 6a1 1 0 1 1 0-2 1 1 0 0 1 0 2Z"></path></svg><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">笔记</font></font></p><p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Devika 是</font><font style="vertical-align: inherit;">Cognition AI 以</font></font><a href="https://www.cognition-labs.com/introducing-devin" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Devin</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为原型的。该项目旨在成为 Devin 的开源替代品，其“过于雄心勃勃”的目标是在</font></font><a href="https://www.swebench.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SWE 基准</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">测试中达到与 Devin 相同的分数……并最终击败它？</font></font></p>
+</div>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">演示</font></font></h2><a id="user-content-demos" class="anchor" aria-label="永久链接：演示" href="#demos"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<details open="" class="details-reset border rounded-2">
+  <summary class="px-3 py-2">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-device-camera-video">
+    <path d="M16 3.75v8.5a.75.75 0 0 1-1.136.643L11 10.575v.675A1.75 1.75 0 0 1 9.25 13h-7.5A1.75 1.75 0 0 1 0 11.25v-6.5C0 3.784.784 3 1.75 3h7.5c.966 0 1.75.784 1.75 1.75v.675l3.864-2.318A.75.75 0 0 1 16 3.75Zm-6.5 1a.25.25 0 0 0-.25-.25h-7.5a.25.25 0 0 0-.25.25v6.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-6.5ZM11 8.825l3.5 2.1v-5.85l-3.5 2.1Z"></path>
+</svg>
+    <span aria-label="视频描述 devika-pygame-demo.mp4" class="m-1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">devika-pygame-demo.mp4</font></font></span>
+    <span class="dropdown-caret"></span>
+  </summary>
 
-<h1 align="center">🚀 Devika - Agentic AI Software Engineer 👩‍💻</h1>
+  <video src="https://private-user-images.githubusercontent.com/26198477/314917955-cfed6945-d53b-4189-9fbe-669690204206.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE0NDQ0NzMsIm5iZiI6MTcxMTQ0NDE3MywicGF0aCI6Ii8yNjE5ODQ3Ny8zMTQ5MTc5NTUtY2ZlZDY5NDUtZDUzYi00MTg5LTlmYmUtNjY5NjkwMjA0MjA2Lm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzI2VDA5MDkzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZmMTY4NjhkM2ZmOTUxNDYzMDhhYzlhZjgxOGQwMmZjOTlhNzlhMjdiY2ZlMGRjM2VjOTY0OWQ3ZTNlZWEzZjQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.oqlh1IR_A4EW6o3qM7fR-pixw6t_MbMMhHhN9mGSSVE" data-canonical-src="https://private-user-images.githubusercontent.com/26198477/314917955-cfed6945-d53b-4189-9fbe-669690204206.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTE0NDQ0NzMsIm5iZiI6MTcxMTQ0NDE3MywicGF0aCI6Ii8yNjE5ODQ3Ny8zMTQ5MTc5NTUtY2ZlZDY5NDUtZDUzYi00MTg5LTlmYmUtNjY5NjkwMjA0MjA2Lm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzI2VDA5MDkzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZmMTY4NjhkM2ZmOTUxNDYzMDhhYzlhZjgxOGQwMmZjOTlhNzlhMjdiY2ZlMGRjM2VjOTY0OWQ3ZTNlZWEzZjQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.oqlh1IR_A4EW6o3qM7fR-pixw6t_MbMMhHhN9mGSSVE" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
 
-![devika screenshot](.assets/devika-screenshot.png)
+  </video>
+</details>
 
-> [!IMPORTANT]  
-> This project is currently in a very early development/experimental stage. There are a lot of unimplemented/broken features at the moment. Contributions are welcome to help out with the progress!
-
-## Table of Contents
-
-- [About](#about)
-- [Key Features](#key-features)
-- [System Architecture](#system-architecture)
-- [Quick Start](#quick-start)
-- [Installation](#installation)
-- [Getting Started](#getting-started)
-- [Configuration](#configuration)
-- [Under The Hood](#under-the-hood)
-  - [AI Planning and Reasoning](#ai-planning-and-reasoning)
-  - [Keyword Extraction](#keyword-extraction)
-  - [Browser Interaction](#browser-interaction)
-  - [Code Writing](#code-writing)
-- [Community Discord Server](#community-discord-server)
-- [Contributing](#contributing)
-- [License](#license)
-
-## About
-
-Devika is an advanced AI software engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. Devika utilizes large language models, planning and reasoning algorithms, and web browsing abilities to intelligently develop software.
-
-Devika aims to revolutionize the way we build software by providing an AI pair programmer who can take on complex coding tasks with minimal human guidance. Whether you need to create a new feature, fix a bug, or develop an entire project from scratch, Devika is here to assist you.
-
-> [!NOTE]
-> Devika is modeled after [Devin](https://www.cognition-labs.com/introducing-devin) by Cognition AI. This project aims to be an open-source alternative to Devin with an "overly ambitious" goal to meet the same score as Devin in the [SWE-bench](https://www.swebench.com/) Benchmarks... and eventually beat it?
-
-## Demos
-
-https://github.com/stitionai/devika/assets/26198477/cfed6945-d53b-4189-9fbe-669690204206
-
-## Key Features
-
-- 🤖 Supports **Claude 3**, **GPT-4**, **GPT-3.5**, and **Local LLMs** via [Ollama](https://ollama.com). For optimal performance: Use the **Claude 3** family of models.
-- 🧠 Advanced AI planning and reasoning capabilities
-- 🔍 Contextual keyword extraction for focused research
-- 🌐 Seamless web browsing and information gathering
-- 💻 Code writing in multiple programming languages
-- 📊 Dynamic agent state tracking and visualization
-- 💬 Natural language interaction via chat interface
-- 📂 Project-based organization and management
-- 🔌 Extensible architecture for adding new features and integrations
-
-## System Architecture
-
-Devika's system architecture consists of the following key components:
-
-1. **User Interface**: A web-based chat interface for interacting with Devika, viewing project files, and monitoring the agent's state.
-2. **Agent Core**: The central component that orchestrates the AI planning, reasoning, and execution process. It communicates with various sub-agents and modules to accomplish tasks.
-3. **Large Language Models**: Devika leverages state-of-the-art language models like **Claude**, **GPT-4**, and **Local LLMs via Ollama** for natural language understanding, generation, and reasoning.
-4. **Planning and Reasoning Engine**: Responsible for breaking down high-level objectives into actionable steps and making decisions based on the current context.
-5. **Research Module**: Utilizes keyword extraction and web browsing capabilities to gather relevant information for the task at hand.
-6. **Code Writing Module**: Generates code based on the plan, research findings, and user requirements. Supports multiple programming languages.
-7. **Browser Interaction Module**: Enables Devika to navigate websites, extract information, and interact with web elements as needed.
-8. **Knowledge Base**: Stores and retrieves project-specific information, code snippets, and learned knowledge for efficient access.
-9. **Database**: Persists project data, agent states, and configuration settings.
-
-Read [**ARCHITECTURE.md**](https://github.com/stitionai/devika/blob/main/ARCHITECTURE.md) for the detailed documentation.
-
-## Quick Start
-
-The easiest way to run the project locally:
-
-1. Install `uv` - Python Package manager (https://github.com/astral-sh/uv)
-2. Install `bun` - JavaScript runtime (https://bun.sh/)
-3. Install and setup `Ollama` (https://ollama.com/)
-
-Set the API Keys in the `config.toml` file. (This will soon be moving to the UI where you can set these keys from the UI itself without touching the command-line, want to implement it? See this issue: https://github.com/stitionai/devika/issues/3)
-
-Then execute the following set of command:
-
-```
-ollama serve
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">主要特征</font></font></h2><a id="user-content-key-features" class="anchor" aria-label="永久链接：主要特点" href="#key-features"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🤖通过</font><a href="https://ollama.com" rel="nofollow"><font style="vertical-align: inherit;">Ollama</font></a><font style="vertical-align: inherit;">支持</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Claude 3</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GPT-4</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GPT-3.5</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">本地法学硕士</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。为了获得最佳性能：使用</font><strong><font style="vertical-align: inherit;">Claude 3</font></strong><font style="vertical-align: inherit;">系列型号。</font></font><a href="https://ollama.com" rel="nofollow"><font style="vertical-align: inherit;"></font></a><font style="vertical-align: inherit;"></font><strong><font style="vertical-align: inherit;"></font></strong><font style="vertical-align: inherit;"></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🧠 先进的AI规划和推理能力</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🔍 上下文关键词提取以进行重点研究</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🌐 无缝网页浏览和信息收集</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💻 用多种编程语言编写代码</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📊 动态代理状态跟踪和可视化</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💬 通过聊天界面进行自然语言交互</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📂 基于项目的组织和管理</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🔌 用于添加新功能和集成的可扩展架构</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">系统架构</font></font></h2><a id="user-content-system-architecture" class="anchor" aria-label="永久链接：系统架构" href="#system-architecture"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Devika的系统架构由以下关键组件组成：</font></font></p>
+<ol dir="auto">
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用户界面</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：基于网络的聊天界面，用于与 Devika 交互、查看项目文件以及监控代理的状态。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Agent Core</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：编排AI规划、推理和执行过程的核心组件。它与各种子代理和模块通信以完成任务。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">大型语言模型：Devika 利用</font></font></strong><font style="vertical-align: inherit;"></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Claude</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GPT-4</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">和</font></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ollama 的本地 LLM</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">等最先进的语言模型</font><font style="vertical-align: inherit;">进行自然语言理解、生成和推理。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">规划和推理引擎</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：负责将高层目标分解为可操作的步骤，并根据当前环境做出决策。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">研究模块</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：利用关键字提取和网页浏览功能来收集当前任务的相关信息。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">代码编写模块</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：根据计划、研究结果和用户需求生成代码。支持多种编程语言。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">浏览器交互模块</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：使 Devika 能够根据需要导航网站、提取信息并与 Web 元素交互。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">知识库</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：存储和检索项目特定信息、代码片段和学到的知识，以便高效访问。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据库</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：保存项目数据、代理状态和配置设置。</font></font></li>
+</ol>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">阅读</font></font><a href="https://github.com/stitionai/devika/blob/main/ARCHITECTURE.md"><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ARCHITECTURE.md</font></font></strong></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">了解详细文档。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">快速开始</font></font></h2><a id="user-content-quick-start" class="anchor" aria-label="永久链接：快速入门" href="#quick-start"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在本地运行项目的最简单方法：</font></font></p>
+<ol dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装</font></font><code>uv</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- Python 包管理器 ( </font></font><a href="https://github.com/astral-sh/uv"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://github.com/astral-sh/uv</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装</font></font><code>bun</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- JavaScript 运行时 ( </font></font><a href="https://bun.sh/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://bun.sh/</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装和设置</font></font><code>Ollama</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">( </font></font><a href="https://ollama.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://ollama.com/</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></li>
+</ol>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在文件中设置 API 密钥</font></font><code>config.toml</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。 （这很快就会转移到 UI，您可以从 UI 本身设置这些键，而无需触摸命令行，想要实现它吗？请参阅此问题：</font></font><a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="2199125991" data-permission-text="Title is private" data-url="https://github.com/stitionai/devika/issues/3" data-hovercard-type="issue" data-hovercard-url="/stitionai/devika/issues/3/hovercard" href="https://github.com/stitionai/devika/issues/3"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">#3</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">然后执行以下一组命令：</font></font></p>
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate"><code>ollama serve
 git clone https://github.com/stitionai/devika.git
 cd devika/
 uv venv
@@ -91,138 +91,179 @@ bun install
 bun run dev
 cd ..
 python3 devika.py
-```
-
-Docker images will be released soon. :raised_hands:
-
-## Installation
-Devika requires the following things as dependencies:
-- Ollama (follow the instructions here to install it: [https://ollama.com/](https://ollama.com/))
-- Bun (follow the instructions here to install it: [https://bun.sh/](https://bun.sh/))
-
-To install Devika, follow these steps:
-
-1. Clone the Devika repository:
-   ```bash
-   git clone https://github.com/stitionai/devika.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd devika
-   ```
-3. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   playwright install --with-deps # installs browsers in playwright (and their deps) if required
-   ```
-4. Set up the necessary API keys and configuration (see [Configuration](#configuration) section).
-5. Start the Devika server:
-   ```bash
-   python devika.py
-   ```
-6. Compile and run the UI server:
-   ```bash
-   cd ui/
-   bun install
-   bun run dev
-   ```
-7. Access the Devika web interface by opening a browser and navigating to `http://127.0.0.1:3000`.
-
-## Getting Started
-
-To start using Devika, follow these steps:
-
-1. Open the Devika web interface in your browser.
-2. Create a new project by clicking on the "New Project" button and providing a name for your project.
-3. Select the desired programming language and model configuration for your project.
-4. In the chat interface, provide a high-level objective or task description for Devika to work on.
-5. Devika will process your request, break it down into steps, and start working on the task.
-6. Monitor Devika's progress, view generated code, and provide additional guidance or feedback as needed.
-7. Once Devika completes the task, review the generated code and project files.
-8. Iterate and refine the project as desired by providing further instructions or modifications.
-
-## Configuration
-
-Devika requires certain configuration settings and API keys to function properly. Update the `config.toml` file with the following information:
-
-- `OPENAI_API_KEY`: Your OpenAI API key for accessing GPT models.
-- `CLAUDE_API_KEY`: Your Anthropic API key for accessing Claude models.
-- `BING_API_KEY`: Your Bing Search API key for web searching capabilities.
-- `DATABASE_URL`: The URL for your database connection.
-- `LOG_DIRECTORY`: The directory where Devika's logs will be stored.
-- `PROJECT_DIRECTORY`: The directory where Devika's projects will be stored.
-
-Make sure to keep your API keys secure and do not share them publicly.
-
-## Under The Hood
-
-Let's dive deeper into some of the key components and techniques used in Devika:
-
-### AI Planning and Reasoning
-
-Devika employs advanced AI planning and reasoning algorithms to break down high-level objectives into actionable steps. The planning process involves the following stages:
-
-1. **Objective Understanding**: Devika analyzes the given objective or task description to understand the user's intent and requirements.
-2. **Context Gathering**: Relevant context is collected from the conversation history, project files, and knowledge base to inform the planning process.
-3. **Step Generation**: Based on the objective and context, Devika generates a sequence of high-level steps to accomplish the task.
-4. **Refinement and Validation**: The generated steps are refined and validated to ensure their feasibility and alignment with the objective.
-5. **Execution**: Devika executes each step in the plan, utilizing various sub-agents and modules as needed.
-
-The reasoning engine constantly evaluates the progress and makes adjustments to the plan based on new information or feedback received during execution.
-
-### Keyword Extraction
-
-To enable focused research and information gathering, Devika employs keyword extraction techniques. The process involves the following steps:
-
-1. **Preprocessing**: The input text (objective, conversation history, or project files) is preprocessed by removing stop words, tokenizing, and normalizing the text.
-2. **Keyword Identification**: Devika uses the BERT (Bidirectional Encoder Representations from Transformers) model to identify important keywords and phrases from the preprocessed text. BERT's pre-training on a large corpus allows it to capture semantic relationships and understand the significance of words in the given context.
-3. **Keyword Ranking**: The identified keywords are ranked based on their relevance and importance to the task at hand. Techniques like TF-IDF (Term Frequency-Inverse Document Frequency) and TextRank are used to assign scores to each keyword.
-4. **Keyword Selection**: The top-ranked keywords are selected as the most relevant and informative for the current context. These keywords are used to guide the research and information gathering process.
-
-By extracting contextually relevant keywords, Devika can focus its research efforts and retrieve pertinent information to assist in the task completion.
-
-### Browser Interaction
-
-Devika incorporates browser interaction capabilities to navigate websites, extract information, and interact with web elements. The browser interaction module leverages the Playwright library to automate web interactions. The process involves the following steps:
-
-1. **Navigation**: Devika uses Playwright to navigate to specific URLs or perform searches based on the keywords or requirements provided.
-2. **Element Interaction**: Playwright allows Devika to interact with web elements such as clicking buttons, filling forms, and extracting text from specific elements.
-3. **Page Parsing**: Devika parses the HTML structure of the web pages visited to extract relevant information. It uses techniques like CSS selectors and XPath to locate and extract specific data points.
-4. **JavaScript Execution**: Playwright enables Devika to execute JavaScript code within the browser context, allowing for dynamic interactions and data retrieval.
-5. **Screenshot Capture**: Devika can capture screenshots of the web pages visited, which can be useful for visual reference or debugging purposes.
-
-The browser interaction module empowers Devika to gather information from the web, interact with online resources, and incorporate real-time data into its decision-making and code generation processes.
-
-### Code Writing
-
-Devika's code writing module generates code based on the plan, research findings, and user requirements. The process involves the following steps:
-
-1. **Language Selection**: Devika identifies the programming language specified by the user or infers it based on the project context.
-2. **Code Structure Generation**: Based on the plan and language-specific patterns, Devika generates the high-level structure of the code, including classes, functions, and modules.
-3. **Code Population**: Devika fills in the code structure with specific logic, algorithms, and data manipulation statements. It leverages the research findings, code snippets from the knowledge base, and its own understanding of programming concepts to generate meaningful code.
-4. **Code Formatting**: The generated code is formatted according to the language-specific conventions and best practices to ensure readability and maintainability.
-5. **Code Review and Refinement**: Devika reviews the generated code for syntax errors, logical inconsistencies, and potential improvements. It iteratively refines the code based on its own analysis and any feedback provided by the user.
-
-Devika's code writing capabilities enable it to generate functional and efficient code in various programming languages, taking into account the specific requirements and context of each project.
-
-# Community Discord Server
-
-We have a Discord server for the Devika community, where you can connect with other users, share your experiences, ask questions, and collaborate on the project. To join the server, please follow these guidelines:
-
-- Be respectful: Treat all members of the community with kindness and respect. Harassment, hate speech, and other forms of inappropriate behavior will not be tolerated.
-- Contribute positively: Share your ideas, insights, and feedback to help improve Devika. Offer assistance to other community members when possible.
-- Maintain privacy: Respect the privacy of others and do not share personal information without their consent.
-
-To join the Devika community Discord server, [click here](https://discord.com/invite/8eYNbPuB).
-
-## Contributing
-
-We welcome contributions to enhance Devika's capabilities and improve its performance. To contribute, please see the `CONTRIBUTING.md` file for steps.
-
-## License
-
-Devika is released under the [MIT License](https://opensource.org/licenses/MIT). See the `LICENSE` file for more information.
-
----
-
-We hope you find Devika to be a valuable tool in your software development journey. If you have any questions, feedback, or suggestions, please don't hesitate to reach out. Happy coding with Devika!
+</code></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="ollama serve
+git clone https://github.com/stitionai/devika.git
+cd devika/
+uv venv
+uv pip install -r requirements.txt
+cd ui/
+bun install
+bun run dev
+cd ..
+python3 devika.py" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Docker 镜像即将发布。 🙌</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装</font></font></h2><a id="user-content-installation" class="anchor" aria-label="永久链接：安装" href="#installation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Devika 需要以下内容作为依赖项：</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ollama（按照此处的说明进行安装： https: </font></font><a href="https://ollama.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">//ollama.com/</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Bun（按照此处的说明进行安装： https: </font></font><a href="https://bun.sh/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">//bun.sh/</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要安装 Devika，请按照下列步骤操作：</font></font></p>
+<ol dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">克隆 Devika 存储库：
+</font></font><div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>git clone https://github.com/stitionai/devika.git</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="git clone https://github.com/stitionai/devika.git" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+</li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">导航到项目目录：
+</font></font><div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-c1">cd</span> devika</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="cd devika" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+</li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装所需的依赖项：
+</font></font><div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>pip install -r requirements.txt
+playwright install --with-deps <span class="pl-c"><span class="pl-c">#</span> installs browsers in playwright (and their deps) if required</span></pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="pip install -r requirements.txt
+playwright install --with-deps # installs browsers in playwright (and their deps) if required" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+</li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">设置必要的 API 密钥和配置（请参阅</font></font><a href="#configuration"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">配置</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">部分）。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">启动 Devika 服务器：
+</font></font><div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>python devika.py</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="python devika.py" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+</li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">编译并运行 UI 服务器：
+</font></font><div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-c1">cd</span> ui/
+bun install
+bun run dev</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="cd ui/
+bun install
+bun run dev" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+</li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">通过打开浏览器并导航至 来访问 Devika Web 界面</font></font><code>http://127.0.0.1:3000</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></li>
+</ol>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">入门</font></font></h2><a id="user-content-getting-started" class="anchor" aria-label="永久链接：开始使用" href="#getting-started"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要开始使用 Devika，请按照下列步骤操作：</font></font></p>
+<ol dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在浏览器中打开 Devika Web 界面。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">单击“新建项目”按钮并提供项目名称来创建新项目。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为您的项目选择所需的编程语言和模型配置。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在聊天界面中，提供高级目标或任务描述，供 Devika 处理。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Devika 将处理您的请求，将其分解为多个步骤，然后开始处理任务。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">监视 Devika 的进度、查看生成的代码并根据需要提供其他指导或反馈。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Devika 完成任务后，查看生成的代码和项目文件。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">通过提供进一步的说明或修改，根据需要迭代和完善项目。</font></font></li>
+</ol>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">配置</font></font></h2><a id="user-content-configuration" class="anchor" aria-label="永久链接：配置" href="#configuration"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Devika 需要某些配置设置和 API 密钥才能正常运行。</font></font><code>config.toml</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用以下信息</font><font style="vertical-align: inherit;">更新文件：</font></font></p>
+<ul dir="auto">
+<li><code>OPENAI_API_KEY</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：用于访问 GPT 模型的 OpenAI API 密钥。</font></font></li>
+<li><code>CLAUDE_API_KEY</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：用于访问 Claude 模型的 Anthropic API 密钥。</font></font></li>
+<li><code>BING_API_KEY</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：用于 Web 搜索功能的 Bing 搜索 API 密钥。</font></font></li>
+<li><code>DATABASE_URL</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：数据库连接的 URL。</font></font></li>
+<li><code>LOG_DIRECTORY</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：Devika 日志的存储目录。</font></font></li>
+<li><code>PROJECT_DIRECTORY</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：Devika 项目的存储目录。</font></font></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请确保您的 API 密钥安全，并且不要公开共享。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">幕后花絮</font></font></h2><a id="user-content-under-the-hood" class="anchor" aria-label="永久链接：幕后花絮" href="#under-the-hood"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">让我们更深入地了解 Devika 中使用的一些关键组件和技术：</font></font></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AI规划与推理</font></font></h3><a id="user-content-ai-planning-and-reasoning" class="anchor" aria-label="永久链接：人工智能规划与推理" href="#ai-planning-and-reasoning"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Devika 采用先进的人工智能规划和推理算法将高级目标分解为可操作的步骤。规划过程包括以下阶段：</font></font></p>
+<ol dir="auto">
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">目标理解</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：Devika 分析给定的目标或任务描述以了解用户的意图和要求。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">上下文收集</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：从对话历史记录、项目文件和知识库中收集相关上下文，为规划过程提供信息。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">步骤生成</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：根据目标和上下文，Devika 生成一系列高级步骤来完成任务。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">细化和验证</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：对生成的步骤进行细化和验证，以确保其可行性并与目标保持一致。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">执行</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：Devika 执行计划中的每个步骤，根据需要利用各种子代理和模块。</font></font></li>
+</ol>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">推理引擎不断评估进度，并根据执行过程中收到的新信息或反馈对计划进行调整。</font></font></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">关键词提取</font></font></h3><a id="user-content-keyword-extraction" class="anchor" aria-label="永久链接：关键词提取" href="#keyword-extraction"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为了实现集中研究和信息收集，Devika 采用了关键词提取技术。该过程涉及以下步骤：</font></font></p>
+<ol dir="auto">
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">预处理</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：通过删除停用词、标记化和规范化文本来对输入文本（目标、对话历史记录或项目文件）进行预处理。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">关键字识别</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：Devika 使用 BERT（来自 Transformers 的双向编码器表示）模型从预处理的文本中识别重要的关键字和短语。 BERT 在大型语料库上进行的预训练使其能够捕获语义关系并理解给定上下文中单词的含义。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">关键字排名</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：已识别的关键字根据其与当前任务的相关性和重要性进行排名。 TF-IDF（词频-逆文档频率）和 TextRank 等技术用于为每个关键字分配分数。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">关键词选择</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：排名靠前的关键词被选择为与当前上下文最相关且信息最丰富的关键词。这些关键词用于指导研究和信息收集过程。</font></font></li>
+</ol>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">通过提取上下文相关的关键字，Devika 可以集中研究工作并检索相关信息以协助完成任务。</font></font></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">浏览器交互</font></font></h3><a id="user-content-browser-interaction" class="anchor" aria-label="永久链接：浏览器交互" href="#browser-interaction"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Devika 结合了浏览器交互功能来导航网站、提取信息以及与 Web 元素交互。浏览器交互模块利用 Playwright 库来自动化 Web 交互。该过程涉及以下步骤：</font></font></p>
+<ol dir="auto">
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">导航</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：Devika 使用 Playwright 导航到特定 URL 或根据提供的关键字或要求执行搜索。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">元素交互</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：Playwright 允许 Devika 与 Web 元素交互，例如单击按钮、填写表单以及从特定元素中提取文本。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">页面解析</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：Devika 解析所访问网页的 HTML 结构以提取相关信息。它使用 CSS 选择器和 XPath 等技术来定位和提取特定数据点。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">JavaScript 执行</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：Playwright 使 Devika 能够在浏览器上下文中执行 JavaScript 代码，从而实现动态交互和数据检索。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">屏幕截图捕获</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：Devika 可以捕获所访问网页的屏幕截图，这对于视觉参考或调试目的非常有用。</font></font></li>
+</ol>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">浏览器交互模块使 Devika 能够从网络收集信息，与在线资源交互，并将实时数据纳入其决策和代码生成过程。</font></font></p>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">代码编写</font></font></h3><a id="user-content-code-writing" class="anchor" aria-label="永久链接：代码编写" href="#code-writing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Devika的代码编写模块根据计划、研究结果和用户需求生成代码。该过程涉及以下步骤：</font></font></p>
+<ol dir="auto">
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">语言选择</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：Devika 识别用户指定的编程语言或根据项目上下文推断它。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">代码结构生成</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：根据计划和特定于语言的模式，Devika 生成代码的高级结构，包括类、函数和模块。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">代码填充</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：Devika 用特定的逻辑、算法和数据操作语句填充代码结构。它利用研究结果、知识库中的代码片段以及它自己对编程概念的理解来生成有意义的代码。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">代码格式化</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：生成的代码根据特定于语言的约定和最佳实践进行格式化，以确保可读性和可维护性。</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">代码审查和细化</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">：Devika 检查生成的代码是否有语法错误、逻辑不一致和潜在的改进。它根据自己的分析和用户提供的任何反馈迭代地完善代码。</font></font></li>
+</ol>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Devika 的代码编写能力使其能够以各种编程语言生成实用且高效的代码，同时考虑到每个项目的具体要求和上下文。</font></font></p>
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">社区不和谐服务器</font></font></h1><a id="user-content-community-discord-server" class="anchor" aria-label="永久链接：社区 Discord 服务器" href="#community-discord-server"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们为 Devika 社区提供了一个 Discord 服务器，您可以在其中与其他用户联系、分享您的经验、提出问题以及在项目上进行协作。要加入服务器，请遵循以下准则：</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">尊重：友善和尊重地对待社区的所有成员。骚扰、仇恨言论和其他形式的不当行为是不会容忍的。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">积极贡献：分享您的想法、见解和反馈，以帮助改进 Devika。尽可能向其他社区成员提供帮助。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">维护隐私：尊重他人的隐私，未经他人同意，不分享个人信息。</font></font></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要加入 Devika 社区 Discord 服务器，</font></font><a href="https://discord.com/invite/8eYNbPuB" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请单击此处</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></h2><a id="user-content-contributing" class="anchor" aria-label="永久链接：贡献" href="#contributing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们欢迎为增强 Devika 的能力和改善其绩效做出贡献。要做出贡献，请参阅</font></font><code>CONTRIBUTING.md</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文件以了解步骤。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">执照</font></font></h2><a id="user-content-license" class="anchor" aria-label="永久链接：许可证" href="#license"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Devika 是根据</font></font><a href="https://opensource.org/licenses/MIT" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MIT 许可证</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">发布的。请参阅该</font></font><code>LICENSE</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文件以获取更多信息。</font></font></p>
+<hr>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们希望您发现 Devika 成为您软件开发之旅中的一个有价值的工具。如果您有任何问题、反馈或建议，请随时与我们联系。与 Devika 一起快乐编码！</font></font></p>
+</article></div>
